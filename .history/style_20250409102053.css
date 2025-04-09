@@ -1,0 +1,12 @@
+h1 {
+    font-size: xx-large;
+    font-weight: lighter;
+    color: crimson;
+    background-color: coral;
+    width: 50;
+}
+
+div {
+    background-color: darkgreen;
+    color: white;
+}

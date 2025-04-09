@@ -1,0 +1,28 @@
+main {
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: lighter;
+    color: crimson;
+    background-color: coral;
+    max-width: fit-content;
+}
+
+.container-1 {
+    max-width: fit-content;
+    background-color: darkgreen;
+    color: white;
+}
+
+.container-2 {
+    
+}
+
+ul {
+    background-color: blueviolet;
+}
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
